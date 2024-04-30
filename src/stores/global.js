@@ -9,7 +9,7 @@ export const useLocationStore = defineStore("locationStore", () => {
 	};
 
 	const locationUrls = {
-		google: "https://goo.gl/maps/GXYdYdEBchGnv8tS6",
+		google: "https://maps.app.goo.gl/bqCzvLRfqWH37JN18",
 		kakao: "https://place.map.kakao.com/652695946",
 		naver: "https://naver.me/GFpeDL97",
 		tmap: "https://tmap.life/abd0f568",

@@ -1,12 +1,12 @@
 <template>
-  <div class="text-blue-300 w-screen h-screen flex flex-col items-center">
-    <div class="w-96 color-set1 text-center">
+  <div class="w-screen flex flex-col items-center">
+    <div class="min-w-96 w-full color-set1 text-center">
       <FrontPage />
     </div>
     <!-- <div class="w-96 color-set2">
       <Schedule />
     </div> -->
-    <div class="w-96 color-set2">
+    <div class="min-w-96 w-full color-set2">
       <Location />
     </div>
   </div>
