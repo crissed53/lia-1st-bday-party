@@ -15,7 +15,6 @@
 <script setup>
 import FrontPage from "./components/FrontPage.vue"
 import Location from "./components/Location.vue"
-import Schedule from "./components/Schedule.vue"
 </script>
 
 <style scoped>
