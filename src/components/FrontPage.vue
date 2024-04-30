@@ -10,7 +10,7 @@
     </div>
     <img
       class="w-96 h-[28rem] object-cover object-bottom"
-      src="@/assets/photos/lia1.jpeg"
+      src="@/assets/photos/lia1-rsz2.png"
     />
   </div>
 </template>
